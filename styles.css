@@ -1,0 +1,20 @@
+body {
+background-color: #FFb7CE;
+padding: 10px 50px 30px 50px;
+}
+h1 {
+color: #602060;
+font-family: courier;
+font-weight: bold;
+}
+h2 {
+color: #602060;
+font-family: courier;
+font-weight: bold;
+}
+p {
+color: #572649;
+font-family: courier;
+font-size: 24px;
+font-weight: bold;
+}
